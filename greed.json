@@ -1,0 +1,11 @@
+{
+    "name": "Alias Testing",
+    "author": "Volt Cruelerz",
+    "url": "https://github.com/VoltCruelerz/greed-alias-test",
+    "description": "For testing only.",
+    "version": "0.1.0",
+    "sinsVersion": "1.16.10.0",
+    "greedVersion": "2.2.2",
+    "dependencies": [],
+    "conflicts": ["tare"]
+}

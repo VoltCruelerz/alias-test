@@ -1,0 +1,8 @@
+{
+    "greed": {
+        "alias": "core_en.localized_text",
+        "exportOrder": 2,
+        "mode": "gmr"
+    },
+    "vasari_colony_capital_ship_name": "Alias 2"
+}
