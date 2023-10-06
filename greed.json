@@ -9,5 +9,6 @@
     "predecessors": [
         "tooltips++"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "conflicts": []
 }
